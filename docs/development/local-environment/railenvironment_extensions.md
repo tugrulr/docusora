@@ -28,7 +28,7 @@ The application name used must be consistent. Use the git project name.
 
 1.  Commit your changes.
 
-1.  Follow the instructions in the After a New Application Has Been Added to railenvironment" section below. As needed, get colleagues to do the same.
+1.  Follow the instructions in the [After a New Application Has Been Added to railenvironment](#section-after-a-new-application-has-been-added-to-railenvironment) section below. As needed, get colleagues to do the same.
 
 <br>
 
