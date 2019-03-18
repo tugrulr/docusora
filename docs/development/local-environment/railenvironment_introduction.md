@@ -45,7 +45,7 @@ Running just `r` will display the help text:
 
     root@6325bab9f8e2:/#
 
-Commands are on the [Commands](../docs/commands) page.
+Commands are on the [Commands](../commands) page.
 
 Passing Arguments to Commands
 -
