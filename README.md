@@ -1,16 +1,48 @@
-Documentation - Musora Media Inc.
-========
+Musora Docusora
+=
 
-This is the home of our development department documentation.
+This is the supporting documentation for the development department.
 
-[Documentation Guidelines](https://github.com/railroadmedia/docusora/blob/master/docs/writing-documentation-guidelines.md)
+Rules & Guidelines
+-
+-   No naughty things. This is a public repository!
 
-[SCRUM](https://github.com/railroadmedia/docusora/blob/master/docs/scrum-youtrack.md)
+-   No structural changes without communicating with other developers first.
 
-[Tools & Systems Overview](https://github.com/railroadmedia/docusora/blob/master/docs/tools-and-systems-overview.md)
+-   No floating pages, all pages must be categorized.
 
-[Systems Emergency Guide](https://github.com/railroadmedia/docusora/blob/master/docs/systems-emergency-guide.md)
+-   No sensitive information, such as configuration data or production data. Be mindful when copy/pasting.
 
-[Sysops/Server Infrastructure Overview](https://github.com/railroadmedia/docusora/blob/master/docs/sysops-overview.md)
+<br>
+Formatting & Markdown Syntax
+-
 
-[Slack](https://musora-dev.slack.com)
+This documentation uses a system called markdown, the github flavour.
+
+[Basic Syntax Reference](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+[Markdown Docs](https://help.github.com/categories/writing-on-github/)
+
+<br>
+Table of Contents
+=
+Please see the table of contents below to nagivate swiftly through the pages.
+
+
+
+<details><summary>DEVELOPMENT</summary>
+    <p>
+        <ul><details><summary>Production Emergency</summary>
+            <ul>
+                <a href="">
+                    Website Offline
+                </a><br>
+                <a href="">
+                    Infusionsoft API Down
+                </a><br>
+            </ul>
+        </ul>
+    </p>
+</details>
+
+
