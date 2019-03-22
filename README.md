@@ -5,7 +5,7 @@ This is the supporting documentation for the development department.
 
 Rules & Guidelines
 -
--   No naughty things. This is a public repository!
+-   No naughty things.
 
 -   No structural changes without communicating with other developers first.
 
@@ -67,7 +67,7 @@ Please see the table of contents below to nagivate swiftly through the pages.
                 </a><br>
                 <a href="docs/development/local-development/ssl-https.md">
                     SSL/HTTPS
-                </a><br>                                                                                                
+                </a><br>                                 
             </ul>
         </ul>        
     </p>
