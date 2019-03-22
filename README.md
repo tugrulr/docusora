@@ -32,7 +32,7 @@ Please see the table of contents below to nagivate swiftly through the pages.
 
 <details><summary><a href="">DEVELOPMENT</a></summary>
     <p>
-        <ul><details><summary>[Production Emergency](production-emergency.md)</summary>  
+        <ul><details><summary><a href="production-emergency.md">Production Emergency</a></summary>
             <ul>
                 <a href="">
                     Website Offline
