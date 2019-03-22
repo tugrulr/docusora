@@ -42,5 +42,15 @@ Please see the table of contents below to nagivate swiftly through the pages.
                 </a><br>
             </ul>
         </ul>
+        <ul><details><summary><b>Local Development</b></summary>
+            <ul>
+                <a href="docs/development/local-development/setting-up-phpstorm.md">
+                    Setting Up PHPStorm
+                </a><br>
+                <a href="docs/development/local-development/railenvironment-setup.md">
+                    railenvironment Setup
+                </a><br>
+            </ul>
+        </ul>        
     </p>
 </details>
