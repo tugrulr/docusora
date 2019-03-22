@@ -15,7 +15,7 @@ Rules & Guidelines
 
 <br>
 Formatting & Markdown Syntax
--
+=
 
 This documentation uses a system called markdown, the github flavour.
 
