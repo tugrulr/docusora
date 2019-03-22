@@ -30,7 +30,7 @@ Table of Contents
 -
 Please see the table of contents below to nagivate swiftly through the pages.
 
-<details><summary><a href="">DEVELOPMENT</a></summary>
+<details><summary><a href="docs/development/">DEVELOPMENT</a></summary>
     <p>
         <ul><details><summary><a href="docs/development/production-emergency/">Production Emergency</a></summary>
             <ul>
