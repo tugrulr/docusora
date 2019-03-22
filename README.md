@@ -30,9 +30,9 @@ Table of Contents
 -
 Please see the table of contents below to nagivate swiftly through the pages.
 
-<details><summary><h2>DEVELOPMENT</h2></summary>
+<details><summary><b>DEVELOPMENT</b></summary>
     <p>
-        <ul><details><summary><h3>Production Emergency<h3></summary>
+        <ul><details><summary><b>Production Emergency</b></summary>
             <ul>
                 <a href="docs/development/production-emergency/website-offline.md">
                     Website Offline
