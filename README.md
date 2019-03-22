@@ -30,14 +30,14 @@ Table of Contents
 -
 Please see the table of contents below to nagivate swiftly through the pages.
 
-<details><summary><a href="docs/development/">DEVELOPMENT</a></summary>
+<details><summary>DEVELOPMENT</summary>
     <p>
-        <ul><details><summary><a href="docs/development/production-emergency/">Production Emergency</a></summary>
+        <ul><details><summary>Production Emergency</summary>
             <ul>
-                <a href="docs/development/production-emergency/website-offline">
+                <a href="docs/development/production-emergency/website-offline.md">
                     Website Offline
                 </a><br>
-                <a href="docs/development/production-emergency/infusionsoft-api-down">
+                <a href="docs/development/production-emergency/infusionsoft-api-down.md">
                     Infusionsoft API Down
                 </a><br>
             </ul>
