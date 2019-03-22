@@ -34,15 +34,13 @@ Please see the table of contents below to nagivate swiftly through the pages.
     <p>
         <ul><details><summary><a href="docs/development/production-emergency/">Production Emergency</a></summary>
             <ul>
-                <a href="">
+                <a href="docs/development/production-emergency/website-offline">
                     Website Offline
                 </a><br>
-                <a href="">
+                <a href="docs/development/production-emergency/infusionsoft-api-down">
                     Infusionsoft API Down
                 </a><br>
             </ul>
         </ul>
     </p>
 </details>
-
-[Pro](docs/development/production-emergency/)
