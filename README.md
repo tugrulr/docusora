@@ -23,7 +23,6 @@ This documentation uses a system called markdown, the github flavour.
 
 [Markdown Docs](https://help.github.com/categories/writing-on-github/)
 
-<br>
 
 Table of Contents
 -
