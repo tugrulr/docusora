@@ -1,5 +1,8 @@
-railenvironment Commands
+Commands
 =
+
+railenvironment Commands
+-
 
 Prepend all commands with `r`. See code snippets below for examples.
 

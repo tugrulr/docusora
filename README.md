@@ -53,7 +53,7 @@ Please see the table of contents below to nagivate swiftly through the pages.
                 <a href="docs/development/local-development/railenvironment-introduction.md">
                     railenvironment Introduction
                 </a><br>
-                <a href="docs/development/local-development/railenvironment-commands.md">
+                <a href="docs/commands">
                     railenvironment Commands
                 </a><br>
                 <a href="docs/development/local-development/railenvironment-extensions.md">
