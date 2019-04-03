@@ -66,7 +66,7 @@ If you just want to send emails from local while doing manual tests, steps 1 & 2
 
 1.  In `ExternalApiHelpers\Mandrill@sendMail`, comment-out the `if not production` clause.
 1.  In Testcase, comment out the like setting `Mail::pretend` to `true`.
-1.  If still getting the error message mentioned above, see stackoverflow.com/q/29822686.
+1.  If still getting the error message mentioned above, see [stackoverflow.com/q/29822686](http://stackoverflow.com/q/29822686).
 
 Once you have it set up, keep it there long-term and comment|uncomment to toggle on|off as needed.
 
@@ -79,9 +79,9 @@ Address: [localhost:4805](localhost:4805)
 
 Enter these details:
 
->Server: mysql<br>
-Username: root<br>
-Password: root<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Server: mysql<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Username: root<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password: root<br>
 
 <br>
 
