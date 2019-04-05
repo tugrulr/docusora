@@ -36,7 +36,7 @@ This can be caused by changing your Windows password, among other things.
 hit "Apply"
 1.  enter (your Windows) credentials when prompted
 restart docker
-1.  Run "rrr" again, choosing option (likely "3") to rebuild
+1.  Run `rrr` again, choosing option (likely "3") to rebuild
 1.  ? ? ?
 1.  profit
 
@@ -76,12 +76,12 @@ PHPMyAdmin
 -
 
 Address: [localhost:4805](localhost:4805)
-
-Enter these details:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Server: mysql<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Username: root<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password: root<br>
+||||
+|-|-|-|
+|Server|:|mysql|
+|Username|:|root|
+|Password|:|root| 
+||||
 
 <br>
 
