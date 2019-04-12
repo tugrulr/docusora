@@ -85,21 +85,21 @@ Please see the table of contents below to nagivate swiftly through the pages.
         </ul>
         <ul><details><summary><b>SysOps</b></summary>
             <ul>
-                <a href="docs/development/programming/package-workflow.md">
+                <a href="docs/development/sysops/our-setup-overview.md">
                     Our Setup Overview
                 </a><br>
-                <a href="docs/development/programming/legacy-guides.md">
+                <a href="docs/development/sysops/kubernetes-guides.md">
                     Kubernetes Guides
                 </a><br>
-                <a href="docs/development/programming/testing.md">
+                <a href="docs/development/sysops/aws-guides.md">
                     AWS Guides
                 </a><br>
-                <a href="docs/development/programming/testing.md">
+                <a href="docs/development/sysops/config-encryption.md">
                     Configs & Encryption
                 </a><br>
-                <a href="docs/development/programming/testing.md">
+                <a href="docs/development/sysops/dns.md">
                     DNS
-                </a><br>                                                             <a href="docs/development/programming/testing.md">
+                </a><br>                                                             <a href="docs/development/sysops/k8-applications-setup.md">
                     K8 Applications Setup
                 </a><br>   
             </ul>            
