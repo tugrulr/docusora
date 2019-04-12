@@ -70,7 +70,7 @@ Please see the table of contents below to nagivate swiftly through the pages.
                 </a><br>                                 
             </ul>
         </ul>
-<ul><details><summary><b>Programming</b></summary>
+        <ul><details><summary><b>Programming</b></summary>
             <ul>
                 <a href="docs/development/programming/package-workflow.md">
                     Package Workflow
@@ -81,7 +81,28 @@ Please see the table of contents below to nagivate swiftly through the pages.
                 <a href="docs/development/programming/testing.md">
                     Testing
                 </a><br>                               
-            </ul>
-        </ul>                
+            </ul>            
+        </ul>
+        <ul><details><summary><b>SysOps</b></summary>
+            <ul>
+                <a href="docs/development/programming/package-workflow.md">
+                    Our Setup Overview
+                </a><br>
+                <a href="docs/development/programming/legacy-guides.md">
+                    Kubernetes Guides
+                </a><br>
+                <a href="docs/development/programming/testing.md">
+                    AWS Guides
+                </a><br>
+                <a href="docs/development/programming/testing.md">
+                    Configs & Encryption
+                </a><br>
+                <a href="docs/development/programming/testing.md">
+                    DNS
+                </a><br>                                                             <a href="docs/development/programming/testing.md">
+                    K8 Applications Setup
+                </a><br>   
+            </ul>            
+        </ul>                         
     </p>
 </details>

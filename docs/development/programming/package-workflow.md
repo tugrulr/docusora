@@ -63,7 +63,7 @@ Using the Packages in Your Application
 -
 1.  In your main laravel applications composer.json add your repositories like so:
 
-```javascript
+```json
 {
     "repositories": [
         {
