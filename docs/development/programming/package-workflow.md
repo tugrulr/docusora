@@ -62,7 +62,7 @@ You cannot create the packages folder directly in the web-applications folder un
 Using the Packages in Your Application
 -
 1.  In your main laravel applications composer.json add your repositories like so:
-
+<mark>
 ```json
 {
     "repositories": [
@@ -86,6 +86,7 @@ Using the Packages in Your Application
     }
 }
 ```
+</mark>
 Notes
 -
 -   Note 1
