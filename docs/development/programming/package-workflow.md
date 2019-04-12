@@ -26,10 +26,10 @@ Setting Up the Folders & Files for Developement
 -
 **NOTE: This is ONLY for development, in production your package should have a release and be on packagist. It should be pulled in in your main applications composer.json like a normal package.**
 
-Folder Structure
+**Folder Structure**
 1.  If not already created, create a packages folder in your application folder
 
-1.  For Drumeo its (C:\web-development-environment\drumeo\packages\
+1.  For Drumeo its (C:\web-development-environment\drumeo\packages\)
 1.  Inside the packages folder create your
     -   Namespace directory if it does not yet exist (ex: "my-namespace/")
     -   Package folder in that namespace directory (ex: "my-namespace/package-foo")
@@ -56,7 +56,6 @@ C:\
 --------- etc...
 ```
 You cannot create the packages folder directly in the web-applications folder unless you have LAMP installed on your machine. You will need to run composer in that directory, and the best way to do that is via the docker workspace container.
-You cannot create the packages folder directly in the web-applications folder unless you have LAMP installed on your machine. You will need to run composer in that directory, and the best way to do that is via the docker workspace container.|
 
 <br>
 
@@ -65,28 +64,6 @@ Using the Packages in Your Application
 1.  In your main laravel applications composer.json add your repositories like so:
 
 ```json
- Copy
-{
-    "repositories": [
-        {
-            "type": "path",
-            "url": "../packages/my-namespace/my-package-1"
-        },
-        {
-            "type": "path",
-            "url": "../packages/my-namespace/my-package-2"
-        },
-        {
-            "type": "path",
-            "url": "../packages/my-other-namespace/my-package-3"
-        }
-    ],
-    "require": {
-        "my-namespace/package-1": "*",
-        "my-namespace/package-2": "*",
-        "my-namespace/package-3": "*"
-    }
-}
 {
     "repositories": [
         {
@@ -119,10 +96,6 @@ Notes
     -   you may need to specify the version not as the wild-card used above (`*`), but rather as "dev" followed by a dash and then your package name in lowercase, like this:
 
 ```json
- Copy
-"require": {
-    "my-namespace/package-1": "dev-my-package-1",
-}
 "require": {
     "my-namespace/package-1": "dev-my-package-1",
 }
@@ -210,23 +183,23 @@ PHPStorm PHPUnit Testing Configuration
 <br>
 Change the dir path in settings:
 
-1.  phpunit.xml
+1.  *phpunit.xml*
     <br>
-    /var/www/**laravel**/phpunit.xml
+    */var/www/**laravel**/phpunit.xml*
 
     ↓ becomes ↓
 
-    /var/www/**packages/railroad/intercomeo**/phpunit.xml
+    */var/www/**packages/railroad/intercomeo**/phpunit.xml*
 
 <br>
 
-2.  vendor/autoload.xml
+2.  *vendor/autoload.xml*
     <br>
-    /var/www/**laravel**/vendor/autoload.xml
+    */var/www/**laravel**/vendor/autoload.xml*
 
     ↓ becomes ↓
 
-    /var/www/**packages/railroad/intercomeo**/vendor/autoload.xml
+    */var/www/**packages/railroad/intercomeo**/vendor/autoload.xml*
 
 <br>
 
@@ -268,15 +241,15 @@ For the "railroad\intercomeo" package, for example:
 
 *From application to package*
 
--   edit application composer.json
+-   edit application *composer.json*
     -   specify package namespace
     -  define location of dev package files
     -  add to requirement list. (Will likely just define as `dev-packagename`).
  
 -   run `composer update` in your application.
 -   change your PHPUnit settings in PHPStorm (specify dev package *autoload.php* and *phpunit.xml* locations)
-    -   PHPUnit Library → path to script
-    -   Test Runner" → Default configuration file
+    -   *PHPUnit Library* → *path to script*
+    -   *Test Runner"* → *Default configuration file*
  
  ---
  **Start developing!**

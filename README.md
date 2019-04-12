@@ -73,13 +73,13 @@ Please see the table of contents below to nagivate swiftly through the pages.
 <ul><details><summary><b>Programming</b></summary>
             <ul>
                 <a href="docs/development/programming/package-workflow.md">
-                    Setting Up PHPStorm
+                    Package Workflow
                 </a><br>
                 <a href="docs/development/programming/legacy-guides.md">
-                    railenvironment Setup
+                    Legacy Guides
                 </a><br>
                 <a href="docs/development/programming/testing.md">
-                    railenvironment Introduction
+                    Testing
                 </a><br>                               
             </ul>
         </ul>                
