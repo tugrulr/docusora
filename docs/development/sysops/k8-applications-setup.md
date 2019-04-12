@@ -114,6 +114,6 @@ Kubernetes Setting Up Staging Applications
 Deploying
 -
 **Musora**
-1.  From the manager container run: `r deploy musota`
+1.  From the manager container run: `r deploy musora`
 1.  Choose testing
 1.  Wait

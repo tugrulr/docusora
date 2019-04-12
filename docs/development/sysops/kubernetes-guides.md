@@ -15,6 +15,6 @@ Create subnets in new vpc
 
 Go to main cluster vpc route able -> subnet associations. Add the 3 above we just made.
 
-In RDS create new subnet group in our vpc. Add the db and db-alt subnets we made. Create your RDS instance/cluster, make sure its in ur VPC and set publicly accessible to yes. Set availibilti zone to us-east-2a, set vpc security group to the k8 nodes sg.
+In RDS create new subnet group in our vpc. Add the db and db-alt subnets we made. Create your RDS instance/cluster, make sure its in ur VPC and set publicly accessible to yes. Set availability zone to "us-east-2a", set vpc security group to the "k8 nodes sg".
 
 In Elasticache create new subnet group. Add the cache subnet we made. Make your new instance, set vpc to ours, set security group to the k8 cluster nodes sg. Now you must add nodes security group allow all ports to the cache instance sg.
