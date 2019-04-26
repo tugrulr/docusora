@@ -94,7 +94,7 @@ Please see the table of contents below to nagivate swiftly through the pages.
                 <a href="docs/development/sysops/aws-guides.md">
                     AWS Guides
                 </a><br>
-                <a href="docs/development/sysops/config-encryption.md">
+                <a href="docs/development/sysops/configs-encryption.md">
                     Configs & Encryption
                 </a><br>
                 <a href="docs/development/sysops/dns.md">
