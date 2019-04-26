@@ -62,7 +62,7 @@ Please see the table of contents below to nagivate swiftly through the pages.
                 <a href="docs/development/local-development/miscellaneous.md">
                     Miscellaneous
                 </a><br>
-                <a href="docs/development/local-development/testing-debugging.md">
+                <a href="docs/development/local-development/testing-and-debugging.md">
                     Testing & Debugging
                 </a><br>
                 <a href="docs/development/local-development/ssl-https.md">
