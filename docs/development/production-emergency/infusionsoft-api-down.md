@@ -13,15 +13,15 @@ Our server can basically function as normal without infusionsoft working with 1 
 
 [1]: /recipes/braised-lamb-shank
 
-**PHP**
-
+```php
     $this->iSDK->cfgCon($this->apiAppName, $this->apiKey, $this->apiDbOn);
-
+```
 Becomes:
 
-**PHP**
+```php
 
     // $this->iSDK->cfgCon($this->apiAppName, $this->apiKey, $this->apiDbOn);
+```
 
 3. Deploy
 
