@@ -8,7 +8,7 @@ PUT "access"
 |name   |string     |x          |           |
 |slug   |           |x          |           |
 |description|string |           |x          |
-|brand  |string     |           |X          |
+|brand  |string     |           |x          |
 
 
 

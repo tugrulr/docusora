@@ -2,6 +2,7 @@ Update access
 =
 
 PATCH "access/{accessId}"
+
 |param  |data-type  |required   |optional   |
 |---    |---        |---        |---        |
 |name   |string     |           |x          |
