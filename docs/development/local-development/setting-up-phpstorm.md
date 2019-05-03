@@ -5,8 +5,7 @@ Setting Up PHPStorm
 
 As soon as you clone a project repository and open the directory in PHPStorm they will automatically be loaded. This is possible via the following git ignore file entries:
 
-**.gitignore**
-
+```sh
     /.idea
     !.idea/codeStyles
     !.idea/codeStyles/codeStyleConfig.xml
@@ -19,3 +18,4 @@ As soon as you clone a project repository and open the directory in PHPStorm the
     !.idea/recordeo.iml
     !.idea/vcs.xml
     !.idea/webServers.xml
+```
