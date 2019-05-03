@@ -8,7 +8,7 @@ PATCH "access/{accessId}"
 |name   |string     |           |x          |
 |slug   |string     |           |x          |
 |description|string |           |x          |
-|brand  |string     |           |X          |
+|brand  |string     |           |x          |
 
 
 Example:

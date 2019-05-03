@@ -92,7 +92,7 @@ Please see the table of contents below to nagivate swiftly through the pages.
                 <li><a href="docs/development/role-and-permissions/update-access.md">
                     Update Access
                 </a></li>
-                <li><a href="docs/development/role-and-permissions/delete-acces.md">
+                <li><a href="docs/development/role-and-permissions/delete-access.md">
                     Delete Access
                 </a></li>
                 <li><a href="docs/development/role-and-permissions/assign-user-access.md">
